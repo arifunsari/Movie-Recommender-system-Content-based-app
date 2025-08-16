@@ -51,8 +51,11 @@ You can deploy this app easily on:
 * [Streamlit Community Cloud](https://streamlit.io/cloud)
 * [Hugging Face Spaces](https://huggingface.co/spaces)
 
+👉 You can check the live demo here: https://movie-recommender-system-content-based-app-hfrbxfbdd3cbfx2szjn.streamlit.app/
+
 ## 👨‍💻 Author
 
 Made with ❤️ by [Arif Ansari]
+
 
 ```
