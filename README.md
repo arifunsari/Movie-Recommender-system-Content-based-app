@@ -39,7 +39,6 @@ We implemented a **Content-Based Filtering** approach:
 ---
 
 ## 📊 Workflow
-```mermaid
 flowchart LR
 A[TMDB Dataset] --> B[Preprocessing & Feature Engineering]
 B --> C[Tags Creation]
@@ -47,7 +46,7 @@ C --> D[Vectorization (CountVectorizer)]
 D --> E[Cosine Similarity Matrix]
 E --> F[Recommendation Function]
 F --> G[Streamlit Web App]
-````
+
 
 ---
 
@@ -126,4 +125,5 @@ Made with ❤️ by **Arif Ansari**
 * Hybrid approach combining **Content + Collaborative** methods.
 * Improve search functionality with fuzzy matching.
 * Deploy with **Docker** and CI/CD pipeline.
+
 
